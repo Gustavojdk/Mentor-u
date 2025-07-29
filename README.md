@@ -22,9 +22,9 @@ Sistema desarrollado en Laravel para la gestión y visualización de material ac
 
 ## Características principales
 ✅ *Búsqueda avanzada* de materiales por materia
-✅ *Visualización flexible*: en línea (Google Drive) o descarga local  
+✅ *Visualización flexible*: en línea o descarga local  
 ✅ *Publicación controlada* de materiales mediante sistema de solicitudes  
-✅ *Gestión de usuarios* con diferentes roles (estudiante, administrador)  
+✅ *Gestión de usuarios* con diferentes roles   
 
 ## Requisitos del sistema
 - PHP 8.1+
