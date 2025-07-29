@@ -2,11 +2,17 @@
 
 integrantes del proyecto grupal
 
--Luis Gustavo Mamani Mosquera
+-Alvaro Raúl García Ayala (Ing. Sistemas)
 
--Alvaro Raul Garcia Ayala
+-Dauer Guzmán Olivares (Ing. Informática)
 
--Jhoel Fernando Quelca Ledezma
+-Joel Luizaga Merino (Ing. Informática)
+
+-Luis Gustavo Mamani Mosquera (Ing. Informática)
+
+-Mateo Eilel Patiño Araníbar (Ing. Informática)
+
+-Jhoel Fernando Quelca Ledezma (Ing. Informática)
 
 
 ## Descripción
@@ -15,7 +21,7 @@ Sistema desarrollado en Laravel para la gestión y visualización de material ac
 ## Se uso laravel para este sistema
 
 ## Características principales
-✅ *Búsqueda avanzada* de materiales por carrera, semestre o docente  
+✅ *Búsqueda avanzada* de materiales por materia
 ✅ *Visualización flexible*: en línea (Google Drive) o descarga local  
 ✅ *Publicación controlada* de materiales mediante sistema de solicitudes  
 ✅ *Gestión de usuarios* con diferentes roles (estudiante, administrador)  
@@ -45,12 +51,14 @@ Descarga local (PDF, Word, etc.).
 ### 📤 Publicación de Materiales
 
 Los estudiantes pueden subir nuevos archivos para compartir.
+
 Revisión por administradores antes de su publicación.
 
 ### 👥 Gestión de Usuarios
 
 Roles diferenciados:
 Estudiantes: Buscan y descargan materiales.
+
 Administradores: Aprueban/rechazan nuevos contenidos.
 
 🔹 Beneficios
