@@ -22,8 +22,11 @@ Sistema desarrollado en Laravel para la gestión y visualización de material ac
 
 ## Características principales
 ✅ *Búsqueda avanzada* de materiales por materia
+
 ✅ *Visualización flexible*: en línea o descarga local  
+
 ✅ *Publicación controlada* de materiales mediante sistema de solicitudes  
+
 ✅ *Gestión de usuarios* con diferentes roles   
 
 ## Requisitos del sistema
@@ -34,6 +37,7 @@ Sistema desarrollado en Laravel para la gestión y visualización de material ac
 
 🔹 Objetivo Principal
 Mentor U es una plataforma académica diseñada para facilitar la gestión y distribución de materiales de estudio (apuntes, exámenes, libros) entre estudiantes y docentes de la Universidad Mayor de San Simón.
+
 Para poder ejecutar el programa simplemente tiene que estar descargado el laravel desde xampp, y los demas componentes, y para levantar en el servidor simplemente ponemos en el cmd, php artisan serve, en el directorio que se desea levantar
 
 ### 🔹 Funcionalidades Clave
